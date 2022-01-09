@@ -112,4 +112,4 @@ If you use the proposed system (or any part of this code in your research), plea
 ```
 
 ## Contact
-If you have any query, please feel free to contact us at: taimur.hassan@ku.ac.ae (Taimur Hassan) or 100059689@ku.ac.ae (Abdelfatah Ahmed).
+If you have any query, please feel free to contact us at: taimur.hassan@ku.ac.ae (Taimur Hassan), 100058254@ku.ac.ae (Divya Velayudhan) or 100059689@ku.ac.ae (Abdelfatah Ahmed).
