@@ -38,7 +38,7 @@ Each dataset contains the ground truths either in mat files, txt files or in xml
 9. The test images should also be obtained from the step 2 whereas the folder '…\Segmentation\testingDataset\original' should contain the respective original images (the final detection results are overlaid on these images). 
 10. Dataset directory structure is given below:
 ```
-├── trainingDataset
+├── Segmentation\trainingDataset
 │   ├── train_images
 │   │   └── tr_image_1.png
 │   │   └── tr_image_2.png
@@ -59,7 +59,7 @@ Each dataset contains the ground truths either in mat files, txt files or in xml
 │   │   └── va_image_2.png
 │   │   ...
 │   │   └── va_image_m.png
-├── testingDataset
+├── Segmentation\testingDataset
 │   ├── original
 │   │   └── o_image_1.png
 │   │   └── o_image_2.png
