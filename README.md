@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains the implementation of our paper titled 'Balanced Affinity Loss For Highly Imbalanced Baggage Threat Instance Segmentation'. 
 
-![CBA](/images/Picture1.jpg)
+![CBA](/images/image1.png)
 
 ## Installation
 To run the code, please download and install Anaconda (also install MATLAB R2020a with deep learning, image processing and computer vision toolboxes). Afterward, please import the ‘environment.yml’ or alternatively install following packages: 
@@ -90,10 +90,12 @@ Each dataset contains the ground truths either in mat files, txt files or in xml
 
 Feature Distribution of the Proposed Balanced Affinity Loss Function:
 
-[feature](\images\latent1.png)
+![feature](/images/latent1.png)
+
+
 Qualitative Examples of the Proposed System Across Different Datasets:
 
-[qual](\images\Vis2.png)
+![qual](/images/Vis2.png)
 
 Please feel free to email us if you require the trained instances. 
 
