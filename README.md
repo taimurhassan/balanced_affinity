@@ -23,7 +23,7 @@ The X-ray datasets can be downloaded from the following URLs:
 3. [OPIXray](https://github.com/OPIXray-author/OPIXray) 
 4. [COMPASS-XP](https://figshare.com/articles/dataset/COMPASS-XP/9249791)
 
-Each dataset contains the ground truths either in mat files, txt files or in xml files. TST framework requires annotations to be in the mask form. Therefore, to parse each dataset annotations, we have provided their respective parser in the ‘…\Segmentation\utils’ folder. Please follow the same steps as mentioned below to prepare the training and testing data. These steps are also applicable for any custom dataset.
+Each dataset contains the ground truths either in mat files, txt files or in xml files. The proposed framework requires annotations to be in the mask form. Therefore, to parse each dataset annotations, we have provided their respective parser in the ‘…\Segmentation\utils’ folder. Please follow the same steps as mentioned below to prepare the training and testing data. These steps are also applicable for any custom dataset.
 
 ## Dataset Preparation
 
