@@ -105,7 +105,7 @@ If you use the proposed system (or any part of this code in your research), plea
 ```
 @inproceedings{cba,
   title   = {Balanced Affinity Loss For Highly Imbalanced Baggage Threat Instance Segmentation},
-  author  = {Abdelfatah Ahmed, Ahmad Obeid, Divya Velayudhan, Taimur Hassan, Ernesto Damiani,  Naoufel Werghi},
+  author  = {Abdelfatah Ahmed and Ahmad Obeid and Divya Velayudhan and Taimur Hassan and Ernesto Damiani and Naoufel Werghi},
   note = {Under Review in IEEE ICASSP},
   year = {2022}
 }
