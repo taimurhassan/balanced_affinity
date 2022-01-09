@@ -88,12 +88,12 @@ Each dataset contains the ground truths either in mat files, txt files or in xml
 
 ## Results
 
-Feature Distribution of the Proposed Balanced Affinity Loss Function:
+### Feature Distribution of the Proposed Balanced Affinity Loss Function:
 
 ![feature](/images/latent1.png)
 
 
-Qualitative Examples of the Proposed System Across Different Datasets:
+### Qualitative Examples of the Proposed System Across Different Datasets:
 
 ![qual](/images/Vis2.png)
 
