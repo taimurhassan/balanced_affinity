@@ -98,17 +98,5 @@ Each dataset contains the ground truths either in mat files, txt files or in xml
 
 Please feel free to email us if you require the trained instances. 
 
-## Citation
-If you use the proposed system (or any part of this code in your research), please cite the following paper:
-
-```
-@inproceedings{cba,
-  title   = {Balanced Affinity Loss For Highly Imbalanced Baggage Threat Instance Segmentation},
-  author  = {Abdelfatah Ahmed and Ahmad Obeid and Divya Velayudhan and Taimur Hassan and Ernesto Damiani and Naoufel Werghi},
-  note = {Under Review in IEEE ICIP},
-  year = {2022}
-}
-```
-
 ## Contact
 If you have any query, please feel free to contact us at: taimur.hassan@ku.ac.ae (Taimur Hassan), 100058254@ku.ac.ae (Divya Velayudhan) or 100059689@ku.ac.ae (Abdelfatah Ahmed).
