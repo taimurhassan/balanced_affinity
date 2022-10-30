@@ -99,7 +99,7 @@ Each dataset contains the ground truths either in mat files, txt files or in xml
 Please feel free to email us if you require the trained instances. 
 
 ## Citation
-If you use the proposed scheme (or any part of this code in your research), please cite the following paper:
+If you use the proposed scheme (or any part of this code in your research), cite the following paper:
 
 ```
 @inproceedings{BalancedAffinity,
